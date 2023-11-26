@@ -1,40 +1,66 @@
-# TIendaYupa
-proyecto de una pagina web hecha en laravel
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-Introducción al Proyecto YUPA
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-Descripción del Proyecto
+## About Laravel
 
-YUPA es una tienda de barrio dedicada a ofrecer una amplia variedad de productos locales, desde comestibles frescos hasta artículos básicos del hogar. Este proyecto busca llevar la experiencia de compra local a la era digital, proporcionando a los residentes de la zona la comodidad de ordenar productos desde sus hogares y recibir entregas a su puerta.
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-Objetivos Principales
-Digitalización de la Experiencia de Compra: Ofrecer a los clientes la oportunidad de realizar compras en línea a través de una plataforma intuitiva y fácil de usar.
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Promoción de Productos Locales: Destacar y promover productos de productores y negocios locales, fomentando el apoyo a la economía de la zona.
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-Sistema de Gestión Eficiente: Implementar un sistema interno que permita a YUPA administrar inventarios, procesar pedidos y gestionar entregas de manera eficiente.
+## Learning Laravel
 
-Tecnologías Utilizadas
-El proyecto YUPA se desarrolla utilizando Laravel, un popular framework de PHP conocido por su elegancia y facilidad de uso. Además, se emplean tecnologías complementarias como:
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-Base de Datos: MySQL para el almacenamiento de información de productos, usuarios y pedidos.
+You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-Frontend Responsivo: Uso de HTML, CSS y JavaScript, posiblemente con frameworks como Bootstrap o Tailwind CSS para garantizar una experiencia de usuario adaptable y atractiva.
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-Integración de Pagos: Implementación de pasarelas de pago seguras para transacciones en línea.
+## Laravel Sponsors
 
-Funcionalidades Destacadas
-Registro de Usuarios: Permitir a los clientes crear cuentas para acceder a la plataforma, gestionar sus perfiles y realizar pedidos de manera más sencilla.
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-Catálogo de Productos: Exhibir una amplia gama de productos disponibles en la tienda, con descripciones detalladas, imágenes y precios.
+### Premium Partners
 
-Carrito de Compras: Funcionalidad para que los usuarios agreguen productos, gestionen cantidades y finalicen sus pedidos.
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[WebReinvent](https://webreinvent.com/)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
+- **[Jump24](https://jump24.co.uk)**
+- **[Redberry](https://redberry.international/laravel/)**
+- **[Active Logic](https://activelogic.com)**
+- **[byte5](https://byte5.de)**
+- **[OP.GG](https://op.gg)**
 
-Gestión de Pedidos: Sistema que permite a YUPA recibir, procesar y enviar pedidos, con actualizaciones de estado para los clientes.
+## Contributing
 
-Sistema de Entrega: Integración de un sistema de entrega o colaboración con servicios de entrega para llevar los productos a los clientes.
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-Conclusiones
-El proyecto YUPA busca no solo ofrecer una plataforma de comercio electrónico, sino también fortalecer los lazos entre la tienda y la comunidad local. Se centra en la comodidad, la calidad de los productos y el apoyo al comercio cercano, creando una experiencia de compra única para los residentes del barrio.
+## Code of Conduct
 
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
